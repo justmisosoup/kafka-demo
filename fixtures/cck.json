@@ -1,0 +1,12 @@
+{
+  "inbound": [
+    {
+      "key": "1",
+      "value": {
+        "id": 1,
+        "email": "alice@example.com"
+      },
+      "timestamp": "1662593648"
+    }
+  ]
+}

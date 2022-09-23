@@ -1,0 +1,8 @@
+{
+  "name": "kafka-pg-demo",
+  "language": "golang",
+  "environment": "common",
+  "resources": {
+    "kafka": "fixtures/cck.json"
+  }
+}
